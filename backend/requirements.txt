@@ -1,0 +1,5 @@
+flask
+ezdxf
+pandas
+openpyxl
+requests
